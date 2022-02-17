@@ -4,7 +4,7 @@
 
 3 pip install -r requirements.txt
 
-4 git clone 
+4 git clone https://github.com/TohiHecer/TohiHecer.git
 
 5 ls
 
